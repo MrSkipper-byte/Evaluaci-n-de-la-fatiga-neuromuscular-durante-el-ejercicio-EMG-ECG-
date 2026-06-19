@@ -59,7 +59,7 @@ Para correr la aplicación sin problemas, necesitas el siguiente entorno y libre
 * Además, la app activará un beep intermitente que no dejará de sonar mientras el músculo siga fatigado.
 ---
 
-## 📸 Capturas de Pantalla de la GUI en Funcionamiento
+## Capturas de Pantalla de la GUI en Funcionamiento
 
 | Estado de Calibración / Normal | Analisis final |
 | ![Captura Normal](Primera_Imagen.png) | ![Captura Fatiga](Imagen_Final.png) |
