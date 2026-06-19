@@ -61,7 +61,7 @@ Para correr la aplicación sin problemas, necesitas el siguiente entorno y libre
 
 ## Capturas de Pantalla de la GUI en Funcionamiento
 
-| Estado de Calibración / Normal | Analisis final |
-| ![Captura Normal](Primera_Imagen.png) | ![Captura Fatiga](Imagen_Final.png) |
+| Estado de Calibración / Normal | Fatiga Muscular |
+| ![Captura Normal](Primera_Imagen.png) | ![Captura Fatiga](Imagen_fatiga.png) |
 
 ---
