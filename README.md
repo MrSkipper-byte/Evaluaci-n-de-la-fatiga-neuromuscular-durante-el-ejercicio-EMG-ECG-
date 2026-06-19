@@ -20,7 +20,7 @@ Para correr la aplicación sin problemas, necesitas el siguiente entorno y libre
 
 1.  **Clonar o descargar el repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
+    git clone [https://github.com/MrSkipper-byte/Evaluaci-n-de-la-fatiga-neuromuscular-durante-el-ejercicio-EMG-ECG-.git)
     ```
 2.  Abre MATLAB y muévete desde el Current Folder hasta la carpeta /Software del proyecto.
 3.  **Lanza la app**
